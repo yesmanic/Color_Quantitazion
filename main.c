@@ -10,12 +10,12 @@ int main(int argc, char **argv) {
 
    if (argc < 3) {
       puts("Error: not enough informations\n");
-      puts("usage: ./quantize filename clusters [MAX_ITERATIONS]\n");
+      puts("usage: ./quantize filename colors [MAX_ITERATIONS]\n");
       puts("positional arguments:");
       puts("  filename\t\tthe name of the png file");
-      puts("  clusters\t\tnumber of clusters\n");
+      puts("  colors\t\tnumber of colors\n");
       puts("optional arguments:");
-      puts("  MAX_ITERATIONS\t\tmaximum number of maxIterations");
+      puts("  MAX_ITERATIONS\t\tmaximum number of iterations");
       return 0;
    }
 
