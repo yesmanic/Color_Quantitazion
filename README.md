@@ -1,4 +1,4 @@
-# Color Quantitazion
+# Color Quantization
 Color Quantization is a command-line utility for reducing the number of color of a PNG image. It's written in C and requires a C compiler to build.
 
 ## Installation
