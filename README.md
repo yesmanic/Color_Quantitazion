@@ -1,5 +1,5 @@
 # Color Quantitazion
-Color quantization is a command-line utility for reducing the number of color of a PNG image. It's written in C and requires a C compiler to build.
+Color Quantization is a command-line utility for reducing the number of color of a PNG image. It's written in C and requires a C compiler to build.
 
 ## Installation
 To install Color Quantization run the following commands:
@@ -11,7 +11,7 @@ To install Color Quantization run the following commands:
 - libpng
 
 ```bash
-git clone https://github.com/yesmanic/Color_Quantitazion
+git clone https://github.com/yesmanic/Color_Quantization
 cd Color_Quantization
 make
 ```
@@ -41,6 +41,6 @@ optional arguments:
 ## Contact
 Yesman - yesman.choque@gmail.com
 
-Project Link: https://github.com/yesmanic/Ignite_Lab
+Project Link: https://github.com/yesmanic/Color_Quantization
 
 <p align="right">(<a href="#top">back to top</a>)</p>
